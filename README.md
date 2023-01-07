@@ -1,6 +1,4 @@
-- Hi, I’m Almond Kiruthu.
-- Interested in Blockchain, Data science/ML/AI, Web development and Cloud computing.
-- Currently learning JAVA.
+Currently learning JAVA.
 <!-- - looking to collaborate and contribute on Data science, Blockchain, Web development and Cloud computing projects. -->
 
 <!---
