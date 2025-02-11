@@ -1,4 +1,4 @@
-## Software Engineer | Software Architect
+### Software Engineer | Software Architect
 
 I find joy in solving difficult problems and implementing  both low level and high level system design.
 🤓!
